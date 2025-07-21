@@ -10,11 +10,11 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig {
-    @Value("${cloud_name}")
+    @Value("${cloudinary.cloud-name}")
     private String cloudName;
-    @Value("${api_key}")
+    @Value("${cloudinary.api-key}")
     private String apiKey;
-    @Value("${api_secret}")
+    @Value("${cloudinary.api-secret}")
     private String apiSecret;
 
     @Bean
