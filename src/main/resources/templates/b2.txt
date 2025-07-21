@@ -1,0 +1,35 @@
+BẢNG CẤP ĐỘ LOG
+
+1. TRACE
+- Mô tả: Chi tiết nhất, ghi lại từng bước nhỏ bên trong hệ thống (dùng chủ yếu trong môi trường phát triển).
+- Ví dụ: Ghi lại giá trị của biến trong vòng lặp hoặc mỗi lần gọi hàm trong thuật toán.
+- Khi sử dụng: Dùng khi cần "soi kỹ" quá trình xử lý nội bộ.
+
+2. DEBUG
+- Mô tả: Cung cấp thông tin phục vụ việc gỡ lỗi, nhưng ít chi tiết hơn TRACE.
+- Ví dụ: Log khi một API nhận được request, hoặc trước/sau khi thực hiện truy vấn database.
+- Khi sử dụng: Dùng để hiểu luồng xử lý trong quá trình phát triển hoặc kiểm thử.
+
+3. INFO
+- Mô tả: Thông tin về các sự kiện quan trọng, đánh dấu các bước chính trong luồng xử lý.
+- Ví dụ: Ghi nhận khi người dùng đăng nhập thành công hoặc hoàn tất đặt hàng.
+- Khi sử dụng: Dùng trong cả môi trường production để theo dõi hoạt động hệ thống.
+
+4. WARN
+- Mô tả: Cảnh báo có điều gì đó bất thường, nhưng hệ thống vẫn tiếp tục hoạt động.
+- Ví dụ: Ghi log khi kết nối đến dịch vụ ngoài bị chậm, hoặc cấu hình thiếu nhưng có giá trị mặc định thay thế.
+- Khi sử dụng: Dùng để phát hiện sớm sự cố tiềm ẩn.
+
+5. ERROR
+- Mô tả: Có lỗi xảy ra khiến một chức năng cụ thể không thực hiện được.
+- Ví dụ: Ghi log khi gọi API thất bại, hoặc thao tác ghi dữ liệu vào database bị lỗi.
+- Khi sử dụng: Nên alert hoặc ghi log chi tiết để khắc phục.
+
+6. FATAL (hoặc CRITICAL)
+- Mô tả: Lỗi nghiêm trọng khiến toàn bộ hệ thống hoặc ứng dụng không thể tiếp tục hoạt động.
+- Ví dụ: Không thể khởi động ứng dụng do lỗi cấu hình hệ thống, thiếu tài nguyên, lỗi khởi tạo service chính.
+- Khi sử dụng: Cần được thông báo ngay lập tức.
+
+Ghi chú:
+- Thứ tự mức độ nghiêm trọng: TRACE < DEBUG < INFO < WARN < ERROR < FATAL
+- Trong production, thường log từ INFO trở lên để tối ưu hiệu suất và dung lượng lưu trữ.

@@ -1,0 +1,250 @@
+2025-07-18 14:54:30 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 12460 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 14:54:30 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 14:54:31 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-18 14:54:31 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54209fb8
+2025-07-18 14:54:31 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-18 14:54:31 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.858 seconds (process running for 229.262)
+2025-07-18 14:54:31 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 14:56:09 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-18 14:56:09 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-18 14:56:12 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 19816 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 14:56:12 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 14:56:14 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 14:56:15 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21bb87a4
+2025-07-18 14:56:15 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 14:56:16 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 4.344 seconds (process running for 5.097)
+2025-07-18 14:56:16 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 14:56:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 14:56:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 14:56:24 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 21416 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 14:56:24 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 14:56:26 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 14:56:26 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34642140
+2025-07-18 14:56:26 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 14:56:27 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 4.28 seconds (process running for 5.007)
+2025-07-18 14:56:27 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 14:56:44 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 14:56:44 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 14:56:49 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 9196 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 14:56:49 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 14:56:51 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 14:56:52 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5147adec
+2025-07-18 14:56:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 14:56:53 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 4.358 seconds (process running for 5.064)
+2025-07-18 14:56:53 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 14:57:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 14:57:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 14:57:22 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 26708 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 14:57:22 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 14:57:24 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 14:57:24 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ac1ae4
+2025-07-18 14:57:24 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 14:57:25 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 4.313 seconds (process running for 5.047)
+2025-07-18 14:57:25 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:05:21 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 15:05:21 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 15:05:21 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 26708 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:05:21 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:05:21 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-18 15:05:22 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a6bcc9d
+2025-07-18 15:05:22 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-18 15:05:22 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.764 seconds (process running for 481.5)
+2025-07-18 15:05:22 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:05:38 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-18 15:05:38 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-18 15:05:38 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 26708 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:05:38 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:05:38 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-18 15:05:38 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@62e93806
+2025-07-18 15:05:38 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-18 15:05:38 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.745 seconds (process running for 498.077)
+2025-07-18 15:05:38 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:05:40 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-18 15:05:40 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-18 15:05:40 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 26708 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:05:40 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:05:40 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2025-07-18 15:05:40 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@367153d4
+2025-07-18 15:05:40 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2025-07-18 15:05:41 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.584 seconds (process running for 500.339)
+2025-07-18 15:05:41 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:06:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2025-07-18 15:06:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2025-07-18 15:06:31 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:06:31 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:06:33 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 15:06:33 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@401ede24
+2025-07-18 15:06:33 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 15:06:34 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 4.618 seconds (process running for 5.462)
+2025-07-18 15:06:34 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:06:49 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 15:06:49 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 15:06:49 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:06:49 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:06:50 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-18 15:06:50 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37c587ec
+2025-07-18 15:06:50 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-18 15:06:50 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.701 seconds (process running for 20.98)
+2025-07-18 15:06:50 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:06:52 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-18 15:06:52 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-18 15:06:52 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:06:52 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:06:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2025-07-18 15:06:52 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5110283c
+2025-07-18 15:06:52 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2025-07-18 15:06:52 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.646 seconds (process running for 23.276)
+2025-07-18 15:06:52 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:18 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2025-07-18 15:09:18 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2025-07-18 15:09:18 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:18 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:19 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2025-07-18 15:09:19 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d3d6ec3
+2025-07-18 15:09:19 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2025-07-18 15:09:20 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 1.418 seconds (process running for 170.76)
+2025-07-18 15:09:20 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:24 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2025-07-18 15:09:24 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2025-07-18 15:09:25 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:25 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:25 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2025-07-18 15:09:25 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11b617cb
+2025-07-18 15:09:25 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2025-07-18 15:09:25 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.761 seconds (process running for 176.267)
+2025-07-18 15:09:25 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:27 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown initiated...
+2025-07-18 15:09:27 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown completed.
+2025-07-18 15:09:27 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:27 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:27 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2025-07-18 15:09:27 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41098852
+2025-07-18 15:09:27 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2025-07-18 15:09:28 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.626 seconds (process running for 178.667)
+2025-07-18 15:09:28 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:33 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+2025-07-18 15:09:33 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+2025-07-18 15:09:33 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:33 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:34 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Starting...
+2025-07-18 15:09:34 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79896d7c
+2025-07-18 15:09:34 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Start completed.
+2025-07-18 15:09:34 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.719 seconds (process running for 185.086)
+2025-07-18 15:09:34 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:36 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown initiated...
+2025-07-18 15:09:36 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown completed.
+2025-07-18 15:09:36 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:36 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:36 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Starting...
+2025-07-18 15:09:36 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24056f9
+2025-07-18 15:09:36 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Start completed.
+2025-07-18 15:09:36 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.652 seconds (process running for 187.389)
+2025-07-18 15:09:36 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:09:57 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown initiated...
+2025-07-18 15:09:57 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown completed.
+2025-07-18 15:09:57 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:09:57 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:09:57 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Starting...
+2025-07-18 15:09:57 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@52916e66
+2025-07-18 15:09:57 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Start completed.
+2025-07-18 15:09:57 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.635 seconds (process running for 208.437)
+2025-07-18 15:09:57 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:10:10 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Shutdown initiated...
+2025-07-18 15:10:10 [Thread-35] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Shutdown completed.
+2025-07-18 15:10:10 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:10:10 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:10:10 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Starting...
+2025-07-18 15:10:10 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59caa4fb
+2025-07-18 15:10:10 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Start completed.
+2025-07-18 15:10:10 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.598 seconds (process running for 221.223)
+2025-07-18 15:10:10 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:10:25 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Shutdown initiated...
+2025-07-18 15:10:25 [Thread-39] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Shutdown completed.
+2025-07-18 15:10:25 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:10:25 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:10:26 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Starting...
+2025-07-18 15:10:26 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65a515a
+2025-07-18 15:10:26 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Start completed.
+2025-07-18 15:10:26 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.605 seconds (process running for 236.743)
+2025-07-18 15:10:26 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:10:27 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Shutdown initiated...
+2025-07-18 15:10:27 [Thread-43] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Shutdown completed.
+2025-07-18 15:10:27 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:10:27 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:10:28 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-12 - Starting...
+2025-07-18 15:10:28 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b41b598
+2025-07-18 15:10:28 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-12 - Start completed.
+2025-07-18 15:10:28 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.579 seconds (process running for 238.936)
+2025-07-18 15:10:28 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:11:54 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-12 - Shutdown initiated...
+2025-07-18 15:11:54 [Thread-47] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-12 - Shutdown completed.
+2025-07-18 15:11:54 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:11:54 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:11:54 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Starting...
+2025-07-18 15:11:54 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8d40fc0
+2025-07-18 15:11:54 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Start completed.
+2025-07-18 15:11:55 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.714 seconds (process running for 325.656)
+2025-07-18 15:11:55 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:12:15 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Shutdown initiated...
+2025-07-18 15:12:15 [Thread-51] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Shutdown completed.
+2025-07-18 15:12:15 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:12:15 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:12:15 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Starting...
+2025-07-18 15:12:15 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14346bb1
+2025-07-18 15:12:15 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Start completed.
+2025-07-18 15:12:15 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.681 seconds (process running for 346.289)
+2025-07-18 15:12:15 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:12:17 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Shutdown initiated...
+2025-07-18 15:12:17 [Thread-55] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Shutdown completed.
+2025-07-18 15:12:17 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:12:17 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:12:17 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Starting...
+2025-07-18 15:12:17 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@755000af
+2025-07-18 15:12:17 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Start completed.
+2025-07-18 15:12:18 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.594 seconds (process running for 348.521)
+2025-07-18 15:12:18 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:12:56 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Shutdown initiated...
+2025-07-18 15:12:56 [Thread-59] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Shutdown completed.
+2025-07-18 15:12:56 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:12:56 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:12:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Starting...
+2025-07-18 15:12:56 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1561f639
+2025-07-18 15:12:56 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Start completed.
+2025-07-18 15:12:57 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.691 seconds (process running for 387.512)
+2025-07-18 15:12:57 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:12:58 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Shutdown initiated...
+2025-07-18 15:12:58 [Thread-63] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Shutdown completed.
+2025-07-18 15:12:58 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:12:58 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:12:58 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-17 - Starting...
+2025-07-18 15:12:58 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-17 - Added connection com.mysql.cj.jdbc.ConnectionImpl@108a86f1
+2025-07-18 15:12:58 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-17 - Start completed.
+2025-07-18 15:12:59 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.571 seconds (process running for 389.7)
+2025-07-18 15:12:59 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:13:30 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-17 - Shutdown initiated...
+2025-07-18 15:13:30 [Thread-67] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-17 - Shutdown completed.
+2025-07-18 15:13:30 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:13:30 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:13:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-18 - Starting...
+2025-07-18 15:13:30 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-18 - Added connection com.mysql.cj.jdbc.ConnectionImpl@361ed6c3
+2025-07-18 15:13:30 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-18 - Start completed.
+2025-07-18 15:13:31 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.678 seconds (process running for 421.565)
+2025-07-18 15:13:31 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:14:44 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-18 - Shutdown initiated...
+2025-07-18 15:14:44 [Thread-71] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-18 - Shutdown completed.
+2025-07-18 15:14:45 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:14:45 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:14:45 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-19 - Starting...
+2025-07-18 15:14:45 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-19 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d074a14
+2025-07-18 15:14:45 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-19 - Start completed.
+2025-07-18 15:14:45 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-19 - Shutdown initiated...
+2025-07-18 15:14:45 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-19 - Shutdown completed.
+2025-07-18 15:14:47 [restartedMain] INFO  r.j.JavaService09Application - Starting JavaService09Application using Java 17.0.12 with PID 2168 (C:\Users\Hi\IdeaProjects\Java_service_09\build\classes\java\main started by Hi in C:\Users\Hi\IdeaProjects\Java_service_09)
+2025-07-18 15:14:47 [restartedMain] INFO  r.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:14:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-20 - Starting...
+2025-07-18 15:14:47 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-20 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3090e501
+2025-07-18 15:14:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-20 - Start completed.
+2025-07-18 15:14:47 [restartedMain] INFO  r.j.JavaService09Application - Started JavaService09Application in 0.613 seconds (process running for 498.238)
+2025-07-18 15:14:47 [restartedMain] INFO  ra.java_service_09.LoggingExample - INFO level log: User has successfully logged in.
+2025-07-18 15:19:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-20 - Shutdown initiated...
+2025-07-18 15:19:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-20 - Shutdown completed.
